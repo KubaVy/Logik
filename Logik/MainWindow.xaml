@@ -107,9 +107,9 @@
         <Rectangle Name="Rectangle_6_6" Grid.Row="6" Grid.Column="6" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9" />
         <Rectangle Name="Rectangle_6_7" Grid.Row="6" Grid.Column="7" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9" />
 
-        <Rectangle Name="Rectangle_7_4" Grid.Row="7" Grid.Column="4" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9" />
-        <Rectangle Name="Rectangle_7_5" Grid.Row="7" Grid.Column="5" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9" />
-        <Rectangle Name="Rectangle_7_6" Grid.Row="7" Grid.Column="6" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9" />
+        <Rectangle Name="Rectangle_7_4" Grid.Row="7" Grid.Column="4" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9"/>
+        <Rectangle Name="Rectangle_7_5" Grid.Row="7" Grid.Column="5" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9"/>
+        <Rectangle Name="Rectangle_7_6" Grid.Row="7" Grid.Column="6" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9"/>
         <Rectangle Name="Rectangle_7_7" Grid.Row="7" Grid.Column="7" HorizontalAlignment="Center" Height="30" Stroke="Black" VerticalAlignment="Center" Width="30" Fill="#FFD9D9D9"/>
 
         
